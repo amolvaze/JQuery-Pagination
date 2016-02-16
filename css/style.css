@@ -1,0 +1,52 @@
+.page
+{
+    width: 960px;
+    margin: 0px auto;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+
+
+.list-of-posts
+{
+    min-height:700px;  
+	color: #BF0B9E; 
+	font-weight:bold; 
+	font-family: verdana;
+}
+
+.pagination li
+{
+    list-style:none;  
+    float:left;
+    width : 20px;
+    height:20px;
+    border: 1px solid white;
+    background-color:#8A0C8A;
+    color:white;
+    text-align:center;
+    cursor:pointer;
+	margin-bottom:20px;
+}
+
+.pagination li:hover
+{
+    background-color: white;
+    border:1px solid black;
+    color: black;
+}
+
+.pagination ul
+{
+    border: 0px;
+    padding: 0px;
+}
+
+.active-class
+{
+	background-color: white !important;
+    border:1px solid black !important;
+    color: black !important;	
+}
