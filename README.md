@@ -15,7 +15,11 @@ We are doing some kind of animations on body, HTML elements.
 
 Whenever we click on page number at bottom of pagination mechanism, the new set of pages get loaded into DOM.
 
-It looks like every time page is getting refreshed when we cick on new page of the pagination mechanism.
+It looks like every time page is getting refreshed when we click on new page of the pagination mechanism.
+
+We could incorporate a mechanism that has dynamic contents as well instead of jsut static dummy content.
+
+For dynamic content, we would need to communicate with server side script with database connection in order to fetch the contents dynamically in real time when each time we click on the page number at the bottom of pagination.
 
 Nice plugin to work with.
 
