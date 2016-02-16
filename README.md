@@ -15,7 +15,7 @@ We are doing some kind of animations on body, HTML elements.
 
 Whenever we click on page number at bottom of pagination mechanism, the new set of pages get loaded into DOM.
 
-It looks like evrry time page is getting refreshed when we cick on new page of the pagination mechanism.
+It looks like every time page is getting refreshed when we cick on new page of the pagination mechanism.
 
 Nice plugin to work with.
 
